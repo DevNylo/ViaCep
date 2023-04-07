@@ -1,6 +1,7 @@
 # ViaCep
 
-API QUE FAZ A LOCALIZAÇÃO DO ENDEREÇO ATRAVÉS DO CEP DIGITADO PELO USUÁRIO.
+Algoritmo que desenvolvi para consumir a API do ViaCEP para possibilitar ao usuário verificar as informações do seu endereço a partir do CEP digitado por ele mesmo.
 
-DESENVOLVIDA A PARTIR DE ESTUDOS EM SPRINGBOOT;
-
+> JAVA
+> SPRINGBOOT
+> MAVEN
