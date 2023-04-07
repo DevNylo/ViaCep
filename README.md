@@ -7,3 +7,5 @@ Algoritmo que desenvolvi para consumir a API do ViaCEP para possibilitar ao usuÃ
 > SPRINGBOOT
 
 > MAVEN
+
+> API https://viacep.com.br/
